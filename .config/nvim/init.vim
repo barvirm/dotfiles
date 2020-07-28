@@ -8,4 +8,3 @@ source $HOME/.config/nvim/plug-config/coc.vim
 
 colorscheme badwolf
 set background=dark
-
